@@ -1,5 +1,7 @@
 # Shiori on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/shiori-secure?referralCode=ZqgrJ0)
+
 Deploy Shiori 1.8.0 with generated owner credentials and durable bookmarks, archives, thumbnails, ebooks, sessions, and SQLite state.
 
 The Deploy on Railway button is added after the published route is verified.
